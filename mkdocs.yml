@@ -1,4 +1,4 @@
-site_name: teste
+site_name: Walter Kanneman
 site_url: 
 theme:
     name: material
@@ -65,8 +65,10 @@ theme:
 
 nav:
     - Introduction:
-        - Welcome: index.md
-
+        - Historia: index.md
+    - carreira:
+        - carreira: carreira/carreira.md
+        - titulos: carreira/titulos.md
 markdown_extensions:
     - md_in_html
     - admonition
