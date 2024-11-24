@@ -83,5 +83,5 @@ markdown_extensions:
         permalink: "#"
 
 # Configuration
-repo_url: 
-repo_name: 
+repo_url: https://github.com/rafaelsc07/rafael-costa-portifolio
+repo_name: rafael-costa-portifolio
